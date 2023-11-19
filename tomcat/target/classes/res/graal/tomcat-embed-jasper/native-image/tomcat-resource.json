@@ -1,9 +1,0 @@
-{
-  "bundles":[
-    {"name":"org.apache.jasper.resources.LocalStrings"}
-  ],
-  "resources":[
-    {"pattern":"^org/apache/jasper/.*mbeans-descriptors\\.xml$"},
-    {"pattern":"^jakarta/servlet/jsp/resources/.*"}
-  ]
-}
