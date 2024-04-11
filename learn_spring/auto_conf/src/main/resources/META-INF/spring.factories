@@ -1,0 +1,4 @@
+# ?????$
+com.example.auto_conf.AutoConfApplication$MyImportSelector=\
+    com.example.auto_conf.AutoConfApplication.Auto, \
+    com.example.auto_conf.AutoConfApplication.Auto1
